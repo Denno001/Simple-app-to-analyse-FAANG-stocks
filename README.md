@@ -1,0 +1,1 @@
+# Simple-app-to-analyse-FAANG-stocks
